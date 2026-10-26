@@ -17,7 +17,6 @@ Back-end escalável, sistemas distribuídos, automação de processos e IA aplic
 - [Tabelas-Hash](https://github.com/EnricoSpanier/Tabelas-Hash): tabelas hash em Java comparando função de divisão e de multiplicação, sondagem linear/quadrática e encadeamento.
 - [Projeto-analise-de-dados-com-arvores](https://github.com/EnricoSpanier/Projeto-analise-de-dados-com-arvores): AVL × árvore binária de busca sobre dados escolares reais, com medição de tempo por operação.
 - [Proj-Paralela](https://github.com/EnricoSpanier/Proj-Paralela): contador de acessos de CDN em C, comparando versões sequencial e paralela (OpenMP `atomic` × `critical`).
-- [Blog de Computação Visual](https://enricospanier.github.io/Computacao_Visual/): registros da disciplina de Computação Visual ([código](https://github.com/EnricoSpanier/Computacao_Visual)).
 
 A maior parte do meu código de estudo e de trabalho fica em repositórios privados.
 
